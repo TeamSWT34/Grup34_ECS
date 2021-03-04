@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 using NUnit.Framework;
 
-namespace ECS.Legacy.Test.Unit
+namespace ECS.Test.Unit
 {
     [TestFixture]
     public class TempSensorTests

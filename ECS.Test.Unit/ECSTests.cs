@@ -3,7 +3,7 @@ using System.Runtime.InteropServices.ComTypes;
 using NSubstitute;
 using NUnit.Framework;
 
-namespace ECS.Legacy.Test.Unit
+namespace ECS.Test.Unit
 {
     [TestFixture]
     public class ECSTests

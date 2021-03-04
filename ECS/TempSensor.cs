@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
-[assembly:InternalsVisibleTo("ECS.Legacy.Test.Unit")]
-namespace ECS.Legacy
+[assembly:InternalsVisibleTo("ECS.Test.Unit")]
+namespace ECS
 {
     
     internal class TempSensor : ITempSensor

@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace ECS.Legacy.Test.Unit
+namespace ECS.Test.Unit
 {
     [TestFixture]
     public class HeaterTests
